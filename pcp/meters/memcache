@@ -1,0 +1,11 @@
+#
+# pcp-hbottom(1) configuration file - see pcp-hbottom(5)
+#
+
+[memcache]
+caption = Memcache
+description = Memcache Hits
+hit.metric = sum(memcache.hits)
+hit.color = green
+miss.metric = sum(memcache.misses)
+miss.color = blue
