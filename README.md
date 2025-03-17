@@ -1,3 +1,4 @@
+# DISCLAIMER THIS IS JUST A SILLY FORK OF HTOP https://github.com/htop-dev/htop
 # [![hbottom logo](hbottom.png)](https://hbottom.dev)
 
 [![CI](https://github.com/hbottom-dev/hbottom/workflows/CI/badge.svg)](https://github.com/hbottom-dev/hbottom/actions)
